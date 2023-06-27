@@ -6,6 +6,13 @@
 [`box/spout`](https://github.com/box/spout) bridge for [Batch](https://github.com/yokai-php/batch) processing library.
 
 
+## :warning: DEPRECATED
+
+This library is deprecated because the package it relies on was also deprecated.
+The library has been replaced with [`openspout/openspout`](https://github.com/openspout/openspout).
+And this bridge was replaced with [`yokai/batch-openspout`](https://github.com/yokai-php/batch-openspout).
+
+
 ## :warning: BETA
 
 This library is following [semver](https://semver.org/).

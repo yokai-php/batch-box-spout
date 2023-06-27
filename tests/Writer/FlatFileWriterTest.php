@@ -22,7 +22,7 @@ use Yokai\Batch\JobExecution;
 
 class FlatFileWriterTest extends TestCase
 {
-    private const WRITE_DIR = ARTIFACT_DIR . '/flat-file-writer';
+    private const WRITE_DIR = ARTIFACT_DIR . '/box-spout-flat-file-writer';
 
     /**
      * @dataProvider sets
